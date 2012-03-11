@@ -1,5 +1,7 @@
-Welcome to the Depot Application
+== Welcome to the Depot Application
 
 Web Programming 2 - ZHAW
+Stefan Hauenstein
 
+----------------------------------------
 http://blazing-night-4117.herokuapp.com/
